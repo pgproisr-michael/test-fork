@@ -1,3 +1,4 @@
 # test-fork
-Removed line
+
+Really removed line
 Added line
